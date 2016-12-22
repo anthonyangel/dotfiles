@@ -83,7 +83,6 @@
         "libtasn1",
         "lorem",
         "lua",
-        "mackup",
         "mas",
         "mtr",
         "nettle",
@@ -118,10 +117,11 @@
     ],
     "icons": {},
     "symlinks": {
-        "bash/.*":"~",
-        "bin/.*":"~",
+        "bash/.*": "~",
+        "bin/.*": "~",
         "functions/.*": "~",
         "git/.*": "~",
+        "init/*": "~",
         "sh/.*": "~"
     },
     "taps": [
