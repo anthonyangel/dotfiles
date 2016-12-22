@@ -1,6 +1,8 @@
 {
     "after-scripts": [
-        "brew linkapps"
+        "brew linkapps",
+        "brew cleanup",
+        "brew prune"
     ],
     "casks": [
         "betterzipql",
